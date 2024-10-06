@@ -1700,7 +1700,7 @@
   "Events/ChainedEvents/#GeneralRequestRefuse_City_ReasonPhrase_3": "попри те, що вам не вдалося відправити {0} {[resource]} до {[city_name]},",
   "Events/ChainedEvents/#GreatFestivalComply_Pharaoh_ReasonPhrase_1": "оскільки фараон і {[god]} були вшановані вашим своєчасним відправленням {0} {[resource]} до {[city_name]}, для великого фестивалю,",
   "Events/ChainedEvents/#GreatFestivalComply_Pharaoh_ReasonPhrase_2": "фараон і {[god]} були милостиво вшановані вашим своєчасним відправленням {0} {[resource]} до {[city_name]}, для великого фестивалю. Також,",
-  "Events/ChainedEvents/#GreatFestivalComply_Pharaoh_ReasonPhrase_3": "although you graciously honored Pharaoh and {[god]} by sending {0} {[resource]} to {[city_name]} in time for the Great Festival,",
+  "Events/ChainedEvents/#GreatFestivalComply_Pharaoh_ReasonPhrase_3": "хоча ви благородно вшанували фараона і {[god]} відправивши вчасно {0} {[resource]} до міста {[city_name]} для великого фестивалю,",
   "Events/ChainedEvents/#GreatFestivalComply_City_ReasonPhrase_1": "оскільки ви допомогли місту {[city_name]} відсвяткувати цей великий фестиваль для {[god]} відправивши {0} {[resource]},",
   "Events/ChainedEvents/#GreatFestivalComply_City_ReasonPhrase_2": "ви допомогли місту {[city_name]} провести цей великий фестиваль для {[god]} відправивши {0} {[resource]}, за що вам дуже вдячні. Крім того,",
   "Events/ChainedEvents/#GreatFestivalComply_City_ReasonPhrase_3": "хоча ви допомогли місту {[city_name]} відсвяткувати цей великий фестиваль для {[god]} відправивши {0} {[resource]},",
