@@ -3210,7 +3210,7 @@
   "Menu/#Reset": "Скинути",
   "Menu/#Speed_Normal": "Звичайна швидкість",
   "Menu/Options/#AutoSaveDelay": "Інтервал автозбереження (в роках)",
-  "Menu/Options/#AutoSaveDelayLabel": "{0}",
+  "Menu/Options/#AutoSaveDelayLabel": "{0} років",
   "Menu/Options/#AutoSaveDelayLabel_Disabled": "Вимкнено",
   "Menu/#Family_Avatar": "Виберіть аватар",
   "Menu/Options/#UnlimitedFramerate": "Необмежено",
