@@ -1497,7 +1497,7 @@
   "Events/#DistantBattle_City_ReasonPhrase_3": " ",
   "Events/#DistantBattleWon_Title": "Перемога в битві",
   "Events/#DistantBattleWon_Content": "{[greeting]} {[player_name]}, {[reason_phrase]} єгипетська армія здобула перемогу!",
-  "Events/#DistantBattleWon_ReasonPhrase_1": "завдяки рішучості добре підготовлених військ при далекому місті {[city_name]}",
+  "Events/#DistantBattleWon_ReasonPhrase_1": "завдяки рішучості досвідчених військ, у віддаленому місті {[city_name]},",
   "Events/#DistantBattleWon_ReasonPhrase_2": "здається, дива ніколи не припиняться, адже при місті {[city_name]}",
   "Events/#DistantBattleWon_ReasonPhrase_3": " ",
   "Events/#DistantBattleLost_Title": "Єгипетську армію розгромлено",
