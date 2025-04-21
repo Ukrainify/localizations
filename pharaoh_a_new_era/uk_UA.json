@@ -5018,7 +5018,7 @@
   "Overseers/#FestivalCommon": "Звичайний фестиваль",
   "Overseers/#FestivalLavish": "Розкішний фестиваль",
   "Overseers/#FestivalGrand": "Грандіозний фестиваль",
-  "Overseers/#Festival_Preparing": "Підготовка фестивалю для божества {[god]}",
+  "Overseers/#Festival_Preparing": "Підготовка фестивалю для божества — {[god]}",
   "Overseers/#Temples_OrderFestival": "Замовити фестиваль",
   "Overseers/#Temples_TempleComplex": "Храмові комплекси",
   "Overseers/#Temples_Appeasement": "Умиротворення",
