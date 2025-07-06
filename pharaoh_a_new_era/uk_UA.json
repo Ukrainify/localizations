@@ -2790,7 +2790,7 @@
   "Missions/Periods/#Cleopatras_Capital": "Столиця Клеопатри",
   "Missions/#EndDemo": "Чудова робота! Дякуємо вам за гру в демо-версію гри Фараон: Нова епоха. Якщо вам сподобався час, проведений у Стародавньому Єгипті, ви можете додати гру до свого списку бажаного прямо зараз! Ви також можете стежити за новинами у <link=\"https://twitter.com/Triskell_Int\"><u><color=#4374de>Twitter</color></u></link>, <link=\"https://www.youtube.com/channel/UCMFarZeUbflrWorte1Bo5Rg\"><u><color=#4374de>Youtube</color></u></link> та <link=\"https://discord.gg/pharaohnewera \"><u><color=#4374de>Discord</color></u></link>.",
   "Missions/#DefeatConditions_Title": "Умови поразки",
-  "Missions/#DefeatConditions_Content": "Місію буде провалено, якщо борг зросте до -5000 дебенів. Стежте за своєю скарбницею!",
+  "Missions/#DefeatConditions_Content": "Місію буде провалено, якщо борг сягне -5000 дебенів. Стежте за своєю скарбницею!",
   "Missions/#Custom_victory": "Хай живе могутній фараон! Ваша династія не має рівних, і єгиптяни відтепер і до кінця часів будуть вимовляти ваше ім’я з найбільшою пошаною.",
   "Missions/#CM01_name": "Александрія",
   "Missions/#CM01_tagline": "Александрійська інтрига",
