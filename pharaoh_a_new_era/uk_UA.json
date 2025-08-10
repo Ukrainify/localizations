@@ -1533,7 +1533,7 @@
   "Events/#Invasion_Bedouin_ReasonPhrase_2": "лихо нам, бо",
   "Events/#Invasion_Bedouin_ReasonPhrase_3": " ",
   "Events/#EgyptianCity_To_DistantCity_Title": "Падіння єгипетського міста",
-  "Events/#EgyptianCity_To_DistantCity_Content": "{[greeting]} {[player_name]}, {[reason_phrase]} могутнє місто {[city_name]} впало до рук наших ворогів.",
+  "Events/#EgyptianCity_To_DistantCity_Content": "{[greeting]} {[player_name]}, {[reason_phrase]} могутнє місто {[city_name]} потрапило до рук наших ворогів.",
   "Events/#EgyptianCity_To_DistantCity_ReasonPhrase_1": "нас спіткало непоправне горе, адже",
   "Events/#EgyptianCity_To_DistantCity_ReasonPhrase_2": "здається, що неприємності ніколи не закінчаться, бо",
   "Events/#EgyptianCity_To_DistantCity_ReasonPhrase_3": " ",
